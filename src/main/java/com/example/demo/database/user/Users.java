@@ -11,6 +11,7 @@ public class Users {
 
   @Id
   private String id;
+  private String password;
   private String userName;
   private String kidName;
   private String kidAge;
